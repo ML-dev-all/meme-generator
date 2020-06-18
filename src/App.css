@@ -98,4 +98,12 @@ button {
   .meme > h2 {
     font-size: 30px;
   }
+
+  button {
+    background-color: violet;
+    color: white;
+    width: 70%;
+    margin-top: 5px;
+    margin-bottom: 7x;
+  }
 }
