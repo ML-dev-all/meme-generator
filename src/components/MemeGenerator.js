@@ -49,7 +49,7 @@ export class MemeGenerator extends Component {
             value={this.state.bottomText}
             onChange={this.handleChange}
           />
-          <button>Generate</button>
+          <button>Change photo</button>
         </form>
         <div className="meme">
           <img src={this.state.randomImage} alt="" />
